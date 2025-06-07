@@ -75,7 +75,7 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https//www.linkedin.com/in/muhanned-hasan-246b25235" target="_blank">
+  <a href="https://www.linkedin.com/in/muhanned-hasan-246b25235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohanedmohamed8686@gmail.com">
