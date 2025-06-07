@@ -1,54 +1,55 @@
 # 👋 Hi, I’m Muhanned Hasan
 
-I’m a **Computer Engineering** student at [Your University], passionate about building clean, scalable software and exploring the intersection of networking, security, and user‑centered design.
+I’m a **Computer Engineering** student at **[Your University Name]**, passionate about building clean, scalable software and exploring the intersection of networking, security, and user‑centered design.
 
 ---
 
 ## 🎯 Current Projects
 
 - **Graduation Management System**  
-  An ASP.NET Core MVC app with **role‑based access** (Student, Teacher, Admin), allowing:
-  - Admins to manage users, roles, projects, and submissions  
-  - Teachers to create & review graduation projects  
-  - Students to submit and track their work  
+  ASP.NET Core MVC | C# | SQL Server  
+  • Role‑based access (Student, Teacher, Admin)  
+  • Admins manage users/roles/projects/submissions  
+  • Teachers create & review projects; Students submit & track
 
-- **3D Connect Four (Flutter)**  
-  A cross‑platform mobile game featuring:
-  - Animated 6×7 board with **sound effects** and **confetti**  
-  - Three AI difficulty levels (Minimax)  
-  - Match history export and dark/light mode  
+- **3D Connect Four**  
+  Flutter | Dart | Firebase  
+  • Animated 6×7 board with sound & confetti  
+  • Three AI levels (Minimax), dark/light mode  
+  • Exportable match‑history & player stats
 
-- **E‑Shop (ASP.NET Core + React)**  
-  A modern e‑commerce platform with:
-  - Multi‑role registration (User, Company, Delivery)  
-  - Product catalog, shopping cart, order tracking  
-  - Dockerized deployment and CI/CD pipeline  
+- **E‑Shop**  
+  ASP.NET Core MVC + React | Docker | Azure  
+  • Multi‑role registration (User, Company, Delivery)  
+  • Shopping cart, order tracking, CI/CD pipeline
 
 - **Red‑Teaming & Security Labs**  
-  Hands‑on pentesting experiments, vulnerability research, and secure‑coding workshops.
+  OWASP Top 10 pentesting, Burp Suite, Metasploit  
+  • Hands‑on exploits in lab environment  
+  • Secure‑coding workshops & writeups
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-| 🖥️  Core Languages      | C#, Dart, JavaScript, Python, C++       |
-| ----------------------- | --------------------------------------------- |
-| 🌐  Web & Backend       | ASP.NET Core MVC, Node.js, Express            |
-| 📱  Mobile & UI         | Flutter, HTML5, CSS3                   |
-| 🗄️  Databases           | SQL Server, MySQL, MongoDB                    |
-| 🔗  Networking         | TCP/IP, UDP, ARQ (Go‑Back‑N, Selective‑Repeat) |
-| 🔒  Security            | OWASP, Burp Suite, Metasploit, Ethical Hacking|
-| ⚙️  DevOps & Tools      | Git, Docker, GitHub Actions, JIRA      |
-| ⚡  Practices            | Agile (Scrum, XP), TDD, CI/CD                 |
+| **Languages**      | C#, Dart, JavaScript, Python, C++        |
+|--------------------|------------------------------------------|
+| **Web & Backend**  | ASP.NET Core MVC, Node.js, Express       |
+| **Mobile & UI**    | Flutter, React, HTML5, CSS3              |
+| **Databases**      | SQL Server, MySQL, MongoDB               |
+| **Networking**     | TCP/IP, UDP, ARQ (Go‑Back‑N, Selective‑Repeat) |
+| **Security**       | OWASP, Burp Suite, Metasploit, Ethical Hacking |
+| **DevOps & Tools** | Git, Docker, GitHub Actions, JIRA       |
+| **Practices**      | Agile (Scrum, XP), TDD, CI/CD            |
 
 ---
 
 ## 📚 Areas of Interest
 
-- **Software Architecture & Design Patterns**  
-- **Reliable Transport Protocols & Networks**  
-- **Numerical Methods & Algorithm Analysis**  
-- **Ethical Hacking & Red‑Teaming**
+- Software Architecture & Design Patterns  
+- Reliable Transport Protocols & Networks  
+- Numerical Methods & Algorithm Analysis  
+- Ethical Hacking & Red‑Teaming  
 
 ---
 
@@ -60,9 +61,8 @@ I’m a **Computer Engineering** student at [Your University], passionate about 
 
 ## 📫 Let’s Connect
 
-- 📧 [muhanned.hasan@example.com](mailto:muhanned.hasan@example.com)  
+- 📧 [muhanned.hasan@yourdomain.com](mailto:muhanned.hasan@yourdomain.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhanned-hasan)  
-
 
 ---
 
