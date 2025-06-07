@@ -31,10 +31,10 @@ I’m a **Computer Engineering** student at [Your University], passionate about 
 
 ## 🛠️ Skills & Technologies
 
-| 🖥️  Core Languages      | C#, Dart, JavaScript, Python, Java, C++       |
+| 🖥️  Core Languages      | C#, Dart, JavaScript, Python, C++       |
 | ----------------------- | --------------------------------------------- |
 | 🌐  Web & Backend       | ASP.NET Core MVC, Node.js, Express            |
-| 📱  Mobile & UI         | Flutter, React, HTML5, CSS3                   |
+| 📱  Mobile & UI         | Flutter, HTML5, CSS3                   |
 | 🗄️  Databases           | SQL Server, MySQL, MongoDB                    |
 | 🔗  Networking         | TCP/IP, UDP, ARQ (Go‑Back‑N, Selective‑Repeat) |
 | 🔒  Security            | OWASP, Burp Suite, Metasploit, Ethical Hacking|
