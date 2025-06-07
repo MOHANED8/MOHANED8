@@ -38,7 +38,7 @@ I’m a **Computer Engineering** student at [Your University], passionate about 
 | 🗄️  Databases           | SQL Server, MySQL, MongoDB                    |
 | 🔗  Networking         | TCP/IP, UDP, ARQ (Go‑Back‑N, Selective‑Repeat) |
 | 🔒  Security            | OWASP, Burp Suite, Metasploit, Ethical Hacking|
-| ⚙️  DevOps & Tools      | Git, Docker, Azure, GitHub Actions, JIRA      |
+| ⚙️  DevOps & Tools      | Git, Docker, GitHub Actions, JIRA      |
 | ⚡  Practices            | Agile (Scrum, XP), TDD, CI/CD                 |
 
 ---
@@ -62,7 +62,7 @@ I’m a **Computer Engineering** student at [Your University], passionate about 
 
 - 📧 [muhanned.hasan@example.com](mailto:muhanned.hasan@example.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhanned-hasan)  
-- 🐦 [Twitter @muhanned_dev](https://twitter.com/muhanned_dev)
+
 
 ---
 
