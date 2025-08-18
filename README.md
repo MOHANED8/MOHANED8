@@ -1,120 +1,244 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:434C5E&height=120&section=header&text=Muhanned%20Hasan&fontSize=50&fontColor=ECEFF4&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Muhanned%20Hasan&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Software%20Developer%20%7C%20Security%20Researcher&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=24&center=true&vCenter=true&width=500&height=60&duration=3000&pause=1000&color=81A1C1&lines=Computer+Engineering+Student;Software+Developer;Cybersecurity+Researcher" alt="Professional Title" />
-</div>
-
-<br>
-
-## About Me
-
-Computer Engineering student with experience in full-stack development and cybersecurity. I focus on building scalable applications and secure systems using modern technologies.
-
-**Current Focus:**
-- Advanced Flutter development
-- Transport protocol implementation
-- Red-team security research
-
-**Contact:** mohanedmohamed8686@gmail.com  
-**LinkedIn:** [muhanned-hasan-246b25235](https://www.linkedin.com/in/muhanned-hasan-246b25235/)
-
-<br>
-
-## Technical Skills
-
-<div align="center">
-
-**Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frameworks & Platforms**  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
-**Databases & Cloud**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-**Development Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Security Tools**  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-
-</div>
-
-<br>
-
-## Projects
-
-### Graduation Management System
-**Technologies:** ASP.NET Core MVC, C#, SQL Server  
-**Features:** Role-based access control, administrative dashboard, student management interface  
-**Repository:** [View Project](https://github.com/MOHANED8/graduation-management-system)
-
-### 3D Connect Four
-**Technologies:** Flutter, Dart, Firebase  
-**Features:** 3D game board implementation, AI opponent using minimax algorithm, real-time multiplayer  
-**Repository:** [View Project](https://github.com/MOHANED8/3d-connect-four)
-
-### E-Commerce Platform
-**Technologies:** ASP.NET MVC, React, Docker  
-**Features:** Multi-role authentication, shopping cart system, CI/CD pipeline implementation  
-**Repository:** [View Project](https://github.com/MOHANED8/eshop-platform)
-
-### Security Research Labs
-**Technologies:** Python, Burp Suite, Metasploit  
-**Features:** Penetration testing frameworks, OWASP vulnerability assessments, security documentation  
-**Repository:** [View Project](https://github.com/MOHANED8/red-team-labs)
-
-<br>
-
-## GitHub Statistics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MOHANED8&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=81A1C1&icon_color=88C0D0&text_color=E5E9F0"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANED8&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=81A1C1&text_color=E5E9F0"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Cybersecurity+Specialist;Computer+Engineering+Student;Open+Source+Contributor" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHANED8&theme=nord&hide_border=true&background=2E3440&stroke=81A1C1&ring=88C0D0&fire=D08770&currStreakLabel=81A1C1" alt="GitHub Streak" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-<br>
+---
 
-## Contact Information
+## 🎯 Professional Overview
+
+<table>
+<tr>
+<td width="50%">
+
+**Current Position**  
+Computer Engineering Student specializing in software architecture and cybersecurity research.
+
+**Core Expertise**  
+• Full-stack web development  
+• Mobile application development  
+• Network security and penetration testing  
+• Database design and optimization  
+
+**Technical Focus**  
+• Advanced Flutter development  
+• Reliable transport protocols  
+• Red-team security methodologies  
+
+</td>
+<td width="50%">
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Technical Expertise
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhanned-hasan-246b25235/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanedmohamed8686@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MOHANED8)
-
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" />
+<br><b>C#</b>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+<br><b>React</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
+<br><b>Flutter</b>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+<br><b>Docker</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+<br><b>Python</b>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+<br><b>SQL Server</b>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+<br><b>Azure</b>
+</td>
+</tr>
+</table>
 </div>
 
-<br>
+### Development Stack
+```
+Frontend     → React, Flutter, HTML5/CSS3, JavaScript
+Backend      → ASP.NET Core, Node.js, RESTful APIs
+Database     → SQL Server, MongoDB, Firebase
+DevOps       → Docker, Azure DevOps, CI/CD Pipelines
+Security     → Burp Suite, Metasploit, OWASP Testing
+```
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=MOHANED8&style=flat-square&color=81A1C1)
+<table>
+<tr>
+<td width="50%">
 
+### 🎓 Graduation Management System
+**Enterprise Web Application**
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
+
+**Architecture & Features:**
+- Role-based access control system
+- Administrative dashboard with analytics
+- Student information management
+- Responsive design implementation
+
+</td>
+<td width="50%">
+
+### 🎮 3D Connect Four
+**Cross-Platform Mobile Game**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+
+**Technical Implementation:**
+- 3D game board with custom animations
+- AI opponent using minimax algorithm
+- Real-time multiplayer functionality
+- Cross-platform deployment (iOS/Android)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+**Full-Stack Web Solution**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+
+**System Architecture:**
+- Microservices architecture
+- JWT-based authentication
+- Shopping cart and payment integration
+- Automated deployment pipeline
+
+</td>
+<td width="50%">
+
+### 🔐 Security Research Labs
+**Cybersecurity Framework**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp)
+
+**Security Implementations:**
+- Penetration testing frameworks
+- OWASP vulnerability assessments
+- Custom exploit development
+- Security training documentation
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 Development Metrics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MOHANED8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&custom_title=GitHub%20Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANED8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:434C5E&height=80&section=footer" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHANED8&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHANED8&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 Professional Recognition
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MOHANED8&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=15&no-bg=true" />
+</div>
+
+---
+
+## 📫 Professional Contact
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/muhanned-hasan-246b25235/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+</td>
+<td align="center">
+<a href="mailto:mohanedmohamed8686@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/MOHANED8">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📈 Profile Analytics
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MOHANED8&style=for-the-badge&color=F85D7F&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/MOHANED8?label=Followers&style=for-the-badge&color=F85D7F&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/MOHANED8?style=for-the-badge&color=F85D7F&labelColor=0D1117" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=50&lines=Open+to+collaboration+and+new+opportunities;Building+secure%2C+scalable+solutions;Let's+connect+and+create+something+exceptional" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
 </div>
