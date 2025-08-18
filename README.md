@@ -97,80 +97,104 @@ Security     → Burp Suite, Metasploit, OWASP Testing
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Interconnected Project Ecosystem
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 Graduation Management System
+### 🎓 [Graduation Management System](https://github.com/MOHANED8/graduation-management-system)
 **Enterprise Web Application**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MOHANED8&repo=graduation-management-system&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/MOHANED8/graduation-management-system)
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
 
-**Architecture & Features:**
-- Role-based access control system
-- Administrative dashboard with analytics
-- Student information management
-- Responsive design implementation
+**Connected Features:**
+- Implements security patterns from [Red-Team Labs](https://github.com/MOHANED8/red-team-labs)
+- Uses authentication system adapted in [E-Shop Platform](https://github.com/MOHANED8/eshop-platform)
+- Database design principles shared across all projects
 
 </td>
 <td width="50%">
 
-### 🎮 3D Connect Four
+### 🎮 [3D Connect Four](https://github.com/MOHANED8/3d-connect-four)
 **Cross-Platform Mobile Game**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MOHANED8&repo=3d-connect-four&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/MOHANED8/3d-connect-four)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
 
-**Technical Implementation:**
-- 3D game board with custom animations
-- AI opponent using minimax algorithm
-- Real-time multiplayer functionality
-- Cross-platform deployment (iOS/Android)
+**Cross-Project Integration:**
+- Real-time features inspire multiplayer concepts for future projects
+- Algorithm optimization techniques applied to [E-Shop Platform](https://github.com/MOHANED8/eshop-platform)
+- UI/UX patterns influence mobile-responsive designs
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Platform
+### 🛒 [E-Commerce Platform](https://github.com/MOHANED8/eshop-platform)
 **Full-Stack Web Solution**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MOHANED8&repo=eshop-platform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/MOHANED8/eshop-platform)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 
-**System Architecture:**
-- Microservices architecture
-- JWT-based authentication
-- Shopping cart and payment integration
-- Automated deployment pipeline
+**Ecosystem Connections:**
+- Security testing validated with [Red-Team Labs](https://github.com/MOHANED8/red-team-labs) tools
+- Admin panel architecture borrowed from [Graduation System](https://github.com/MOHANED8/graduation-management-system)
+- Payment integration concepts applicable to other commercial projects
 
 </td>
 <td width="50%">
 
-### 🔐 Security Research Labs
+### 🔐 [Security Research Labs](https://github.com/MOHANED8/red-team-labs)
 **Cybersecurity Framework**
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MOHANED8&repo=red-team-labs&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/MOHANED8/red-team-labs)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp)
 
-**Security Implementations:**
-- Penetration testing frameworks
-- OWASP vulnerability assessments
-- Custom exploit development
-- Security training documentation
+**Security Foundation:**
+- Provides security testing for all web applications
+- Vulnerability assessments performed on [E-Shop](https://github.com/MOHANED8/eshop-platform) and [Graduation System](https://github.com/MOHANED8/graduation-management-system)
+- Security best practices integrated across entire project portfolio
 
 </td>
 </tr>
 </table>
 </div>
+
+### 🔗 Project Interconnections
+```mermaid
+graph TD
+    A[Security Research Labs] --> B[Graduation Management System]
+    A --> C[E-Commerce Platform]
+    A --> D[3D Connect Four]
+    B --> C
+    D --> C
+    B --> E[Future Projects]
+    C --> E
+    A --> E
+```
+
+**Shared Technologies & Patterns:**
+- **Authentication Systems:** JWT implementation across web projects
+- **Database Design:** Normalized structures in SQL Server projects
+- **Security Integration:** OWASP compliance validated across all applications
+- **Responsive Design:** Mobile-first approach from Flutter to web platforms
+- **CI/CD Pipeline:** Docker containerization strategy applied universally
 
 ---
 
