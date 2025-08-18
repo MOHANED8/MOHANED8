@@ -19,7 +19,7 @@
 <td width="50%">
 
 **Current Position**  
-Computer Engineering Student specializing in software architecture and cybersecurity research.
+Computer Engineering Student.
 
 **Core Expertise**  
 • Full-stack web development  
