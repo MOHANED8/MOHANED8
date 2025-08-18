@@ -176,18 +176,7 @@ Security     → Burp Suite, Metasploit, OWASP Testing
 </table>
 </div>
 
-### 🔗 Project Interconnections
-```mermaid
-graph TD
-    A[Security Research Labs] --> B[Graduation Management System]
-    A --> C[E-Commerce Platform]
-    A --> D[3D Connect Four]
-    B --> C
-    D --> C
-    B --> E[Future Projects]
-    C --> E
-    A --> E
-```
+
 
 **Shared Technologies & Patterns:**
 - **Authentication Systems:** JWT implementation across web projects
