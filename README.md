@@ -23,14 +23,13 @@ Computer Engineering Student.
 
 **Core Expertise**  
 • Full-stack web development  
-• Mobile application development  
-• Network security and penetration testing  
+• Mobile application development   
 • Database design and optimization  
 
 **Technical Focus**  
 • Advanced Flutter development  
 • Reliable transport protocols  
-• Red-team security methodologies  
+
 
 </td>
 <td width="50%">
