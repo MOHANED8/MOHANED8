@@ -91,7 +91,6 @@ Frontend     → React, Flutter, HTML5/CSS3, JavaScript
 Backend      → ASP.NET Core, Node.js, RESTful APIs
 Database     → SQL Server, MongoDB, Firebase
 DevOps       → Docker, Azure DevOps, CI/CD Pipelines
-Security     → Burp Suite, Metasploit, OWASP Testing
 ```
 
 ---
@@ -103,7 +102,6 @@ Security     → Burp Suite, Metasploit, OWASP Testing
 **Shared Technologies & Patterns:**
 - **Authentication Systems:** JWT implementation across web projects
 - **Database Design:** Normalized structures in SQL Server projects
-- **Security Integration:** OWASP compliance validated across all applications
 - **Responsive Design:** Mobile-first approach from Flutter to web platforms
 - **CI/CD Pipeline:** Docker containerization strategy applied universally
 
